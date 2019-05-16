@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876315079129",
+    "firebase_url": "https://aulaandroid-85da3.firebaseio.com",
+    "project_id": "aulaandroid-85da3",
+    "storage_bucket": "aulaandroid-85da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876315079129:android:e9eebd07448d4883",
+        "android_client_info": {
+          "package_name": "com.example.aluno.aulafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876315079129-p8h91475t9bv3ba0rh1udrk5331fekp4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.aulafirebase",
+            "certificate_hash": "f1597f572188b0fb43dd37ef49e962d31afe86dd"
+          }
+        },
+        {
+          "client_id": "876315079129-0ke4raes954qa8ed4bf6787843fsddg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3dnsDwYJ6VCpuOVoRHwUGEhn7VnJS7XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876315079129-0ke4raes954qa8ed4bf6787843fsddg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
